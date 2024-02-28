@@ -1,6 +1,4 @@
 ### Hi there 👋
 
 
-- 🔭 Ich bin gerade dabei über eine Weiterbildung ein Web Developer zu werden
-- 🌱 Im Moment lerne ich alles über Terminal, Git, Visual-Studio-Code, Html und Css
-
+urch meine langjährige Berufserfahrung im Einzelhandel konnte ich meine Fähigkeiten im Bereich Kundenorientierung und Teamfähigkeit erweitern und bilde mich im Moment beim DCI in der Web-Development-Branche weiter, worin ich auch meine berufliche Zukunft sehe und ab dem 14. Juni 2024 mit einer Arbeitsstelle durchstarten möchte.
