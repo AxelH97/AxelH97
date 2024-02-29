@@ -1,4 +1,5 @@
-### Herzlich willkommen auf meiner Seite 👋
+ ### Herzlich willkommen auf meiner Seite 👋
 
 
-Durch meine langjährige Berufserfahrung im Einzelhandel konnte ich meine Fähigkeiten im Bereich Kundenorientierung und Teamfähigkeit erweitern und bilde mich im Moment beim DCI in der Web-Development-Branche weiter, worin ich auch meine berufliche Zukunft sehe und ab dem 14. Juni 2024 mit einer Arbeitsstelle durchstarten möchte.
+Hier sehen sie alle meine Projekte in denen ich meine Kentnisse die ich bei der Weiterbildung als Web-Developer bei DCI erarbeitet habe umgestzt habe.
+Ich bin der Meinung das ein Projekt nie vollkommen fertig ist, deshalb werd ich jedes Projekt, vorallem die Projekte die ich am Anfang der Weiterbildung erstellt habe, in gewissen Abständen mit neu gelernten Fähigkeiten ergänzen und verbessern.
